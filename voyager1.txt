@@ -1,6 +1,0 @@
-Voyager1 é uma sonda espacial que possui um disco com os registros de sons e imagens da humanidade.
-<<<<<<< HEAD
-=======
-
-Lançada em 1977.
->>>>>>> voyager1
